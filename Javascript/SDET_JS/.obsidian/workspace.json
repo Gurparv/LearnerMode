@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "b2d6f11b196977d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f96c61a8476c8eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc24ee53dad48670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Data Structures, Modern Operators and Strings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Data Structures, Modern Operators and Strings"
+            }
+          },
+          {
+            "id": "4f799df5aa37d1c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Data Structures, Modern Operators and Strings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Data Structures, Modern Operators and Strings"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c16601f0ee3ad75",
+    "type": "split",
+    "children": [
+      {
+        "id": "e303fbc922c9cc60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2e719438cf6a3a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fc8666ee0a22e614",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ae968ca7b11c41e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59712c0e90a13b50",
+    "type": "split",
+    "children": [
+      {
+        "id": "4be37bcf7b53f51e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8704cd7a244c6860",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Basic JS on DOM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Basic JS on DOM"
+            }
+          },
+          {
+            "id": "81d57bd8edd9a878",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Basic JS on DOM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Basic JS on DOM"
+            }
+          },
+          {
+            "id": "e085a380d04607f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8ef5d8e9d3b5db18",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3061aa4f2c2e66b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Basic JS on DOM.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Basic JS on DOM"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4f799df5aa37d1c2",
+  "lastOpenFiles": [
+    "1. Basics 1.md",
+    "5. Data Structures, Modern Operators and Strings.md",
+    "2. Basics 2_DONE.md",
+    "Untitled.md",
+    "3. Basic JS on DOM.md",
+    "4. How Javascript Behind the Scenes.md",
+    "9x. Closer look at Functions.md",
+    "10x. Object Oriented Programming.md",
+    "desktop.ini",
+    "Async JS",
+    "OOPS",
+    "DOM JS",
+    "Welcome.md"
+  ]
+}
