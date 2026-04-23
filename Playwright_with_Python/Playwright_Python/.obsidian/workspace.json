@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "552367ff40f3dad1",
+    "type": "split",
+    "children": [
+      {
+        "id": "06d627222499cf34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "553e9712a7fa33bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEST-YOURSELF/Playwright Detail Syllabus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Playwright Detail Syllabus"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8dd4f9b416bdaeca",
+    "type": "split",
+    "children": [
+      {
+        "id": "6792f872d2d0f898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4049f8d1ef8271ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1e56f67da5afb43f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2f93fb7dcd0d3bde",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 341.5
+  },
+  "right": {
+    "id": "ce2814dfc49d4edb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddbc4f149f4a132a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b3513d6e82ba0d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TEST-YOURSELF/Playwright Detail Syllabus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Playwright Detail Syllabus"
+            }
+          },
+          {
+            "id": "460603788a3004cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TEST-YOURSELF/Playwright Detail Syllabus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Playwright Detail Syllabus"
+            }
+          },
+          {
+            "id": "0a68386fbeac0abf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "03eea8f27963311d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1b17e8b50651b8fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TEST-YOURSELF/Playwright Detail Syllabus.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Playwright Detail Syllabus"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "553e9712a7fa33bb",
+  "lastOpenFiles": [
+    "1. First Steps/Playwright Basics.md",
+    "1. First Steps/API Test using Playwright.md",
+    "1. First Steps/Environment + Installation.md",
+    "2. Playwright Python Features/Locators.md",
+    "2. Playwright Python Features/Assertions.md",
+    "2. Playwright Python Features/1. Rahul Shetty Playwright MCP from CLI setup.md",
+    "TEST-YOURSELF/Playwright Detail Syllabus.md",
+    "Type like a human would.md",
+    "TEST-YOURSELF",
+    "2. Playwright Python Features",
+    "Welcome.md",
+    "4. Industry_Grade_Elite_Level_Framework",
+    "3. Basic Automation Framework",
+    "1. First Steps"
+  ]
+}
