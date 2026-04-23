@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "a3f060cdb4ae67d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "56129ad8f177a4ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8899a7ec71434153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Salesforce with Playwright/21. 25 advanced Salesforce automation scenarios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "21. 25 advanced Salesforce automation scenarios"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10c792fd1f5d972e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c8e703117416d1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e04d136d6b48b002",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e0cfc8fdb128d6c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0cb13126c71a56e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a9b1e2aad2b97ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "895a1addce0200c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "597ed221a3a58aee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Salesforce with Playwright/21. 25 advanced Salesforce automation scenarios.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 21. 25 advanced Salesforce automation scenarios"
+            }
+          },
+          {
+            "id": "6619ae78b53f2244",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Salesforce with Playwright/3. How to Test for multiple flows.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3. How to Test for multiple flows"
+            }
+          },
+          {
+            "id": "0ebaa49faa0b71e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4559bd4e5243e47d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9c0a061549dead4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Salesforce with Playwright/3. How to Test for multiple flows.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3. How to Test for multiple flows"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e04d136d6b48b002",
+  "lastOpenFiles": [
+    "Salesforce with Playwright/20. Top 12 difficult Salesforce automation interview questions.md",
+    "Salesforce with Playwright/19. Whats your strategy to test salesforce flows.md",
+    "Salesforce with Playwright/18. How to automatically generate Playwright tests.md",
+    "Salesforce with Playwright/17. How to build a “Salesforce Test Data Factory”.md",
+    "Salesforce with Playwright/16. How to reduce Salesforce test execution.md",
+    "Salesforce with Playwright/15. How to detect Salesforce Lightning DOM.md",
+    "Salesforce with Playwright/14. How to reduce a 500-test Salesforce suite.md",
+    "Salesforce with Playwright/13. How to build a Salesforce Page Object Model.md",
+    "Salesforce with Playwright/12. How to automatically test all Profiles.md",
+    "Salesforce with Playwright/11. How to detect tab change in Salesforce console.md",
+    "Salesforce with Playwright/10. How to control Salesforce Console Tabs.md",
+    "Salesforce with Playwright/9. How to make Playwright tests 10x faster in Salesforce.md",
+    "Salesforce with Playwright/8. Salesforce REST API.md",
+    "Salesforce with Playwright/7. Battle Tested Salesforce Automation Checklist used in Large Orgs.md",
+    "Salesforce with Playwright/6. How to parallel automation testing.md",
+    "Salesforce with Playwright/6. Exact Approach a senior automation architect would follow.md",
+    "Salesforce with Playwright/5. How to Handle API testing in salesforce.md",
+    "Salesforce with Playwright/4. How to test when multiple console tabs.md",
+    "Salesforce with Playwright/3. How to Test for multiple flows.md",
+    "Salesforce with Playwright/2. Locator Strategies for Salesforce..md",
+    "Salesforce with Playwright/2. Cant Selenium be upgraded with manual code to act like Playwright.md",
+    "Salesforce with Playwright/2. Approach to Automate Salesforce Apps using Selenium.md",
+    "Salesforce with Playwright/2. Approach to Automate Salesforce Apps using Playwright.md",
+    "Salesforce with Playwright/1. Controlling Lightning OR Classic Views.md",
+    "Salesforce with Playwright/21. 25 advanced Salesforce automation scenarios.md",
+    "Salesforce with Selenium",
+    "Salesforce with Playwright",
+    "Salesforce Manual",
+    "Welcome.md"
+  ]
+}
