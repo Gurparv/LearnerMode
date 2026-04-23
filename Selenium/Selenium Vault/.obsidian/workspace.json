@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "6d6325fddb47b9de",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b1e5fcc1673ce5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5380492c991b839d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Basic Automation Framework/Maven for CLI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maven for CLI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41863208de817f17",
+    "type": "split",
+    "children": [
+      {
+        "id": "664072e3695d3973",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93dc87156576192e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d25512d43cd3622a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fd811aaa24f551fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1461a83f19270c44",
+    "type": "split",
+    "children": [
+      {
+        "id": "b259df50cfc9c82c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7313761420af870",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TEST-YOURSELF/Selenium Syllabus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Selenium Syllabus"
+            }
+          },
+          {
+            "id": "70bc3dd7a8849ec7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TEST-YOURSELF/Selenium Syllabus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Selenium Syllabus"
+            }
+          },
+          {
+            "id": "9ef6aab1b93090c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c10aa9f788a78c16",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e9697caaa97cb4aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TEST-YOURSELF/Selenium Syllabus.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Selenium Syllabus"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5380492c991b839d",
+  "lastOpenFiles": [
+    "3. Basic Automation Framework/WebDriver Safe Parallel Testing.md",
+    "3. Basic Automation Framework/Maven for CLI.md",
+    "4. Industry_Grade_Elite_Level_Framework/Framework Skeleton.md",
+    "4. Industry_Grade_Elite_Level_Framework/Features of an Automation Framework.md",
+    "3. Basic Automation Framework/TestNG.md",
+    "4. Industry_Grade_Elite_Level_Framework/Skillset of an SDET.md",
+    "3. Basic Automation Framework/Reporting.md",
+    "3. Basic Automation Framework/Assertions and Constants.md",
+    "2. Selenium Features/Selenium Grid.md",
+    "3. Basic Automation Framework/Logging.md",
+    "Untitled.md",
+    "3. Basic Automation Framework/JAVA Basics for CLI.md",
+    "TEST-YOURSELF SS IT Software Online Training Syllabus/Syllabus.md",
+    "TEST-YOURSELF/Selenium Syllabus.md",
+    "TEST-YOURSELF SS IT Software Online Training Syllabus",
+    "4. Industry_Grade_Elite_Level_Framework",
+    "3. Basic Automation Framework",
+    "2. Selenium Features",
+    "1. First Steps",
+    "TEST-YOURSELF",
+    "Welcome.md"
+  ]
+}

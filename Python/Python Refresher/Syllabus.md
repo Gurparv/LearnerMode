@@ -1,0 +1,24 @@
+- Built-in functions in python
+- reserve keywords in python
+- Data types in python
+- Data type conversion in python
+- Operators (logical and arithematic)
+- loops (for , while, enhanced loop)
+- conditional statements (if, if-else, switch)
+- Arrays(1D and 2D)
+- Classes
+- Objects
+- Constructors (Default and parametrized)
+- OOPS - Inheritance
+- Method overloading (Compile time polymorphism )
+- Constructor overloading(compile time polymorphism)
+- Method overriding (run time polymorphism)
+- String class
+- Numbers
+- List
+- Tuple
+- Dictionary
+- Exception handling
+- Debugging
+- Modules
+- Read and write files
