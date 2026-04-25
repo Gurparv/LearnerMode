@@ -1,4 +1,7 @@
+```
 Act as an elite level SDET QA and tell me how do you give estimates/projection for automation. Give me your thought process you use based on agile standards. 
+```
+
 
 Alright—this is one of those skills that separates **mid-level QA from elite SDET**. Estimation isn’t about guessing time. It’s about **modeling uncertainty + system complexity + team velocity**.
 
@@ -13,9 +16,7 @@ You estimate **automation effort units**, not test cases.
 Why?
 
 - 1 test case ≠ 1 effort
-    
 - Some take 5 mins, some take 5 hours
-    
 
 👉 So shift thinking:
 
@@ -31,15 +32,10 @@ Elite SDETs don’t estimate at surface level. They decompose:
 ### A. Framework Readiness
 
 - Do we already have:
-    
     - Page Object Model?
-        
     - API client layer?
-        
     - Reporting (Allure, etc.)?
-        
     - Retry + parallel infra?
-        
 
 👉 If missing → **this is NOT test effort, it’s infra effort**
 
@@ -72,9 +68,7 @@ Instead of hours, use **Story Points (SP)**:
 👉 Why?
 
 - Accounts for **unknowns**
-    
 - Works better with sprint velocity
-    
 
 ---
 
@@ -111,22 +105,18 @@ You MUST include:
 ### A. Flakiness Handling
 
 - waits, retries, stability fixes
-    
 
 ### B. Test Data Management
 
 - seeding data, cleanup, environments
-    
 
 ### C. CI/CD Integration
 
 - Jenkins/GitHub Actions setup
-    
 
 ### D. Maintenance Cost
 
 - UI changes, locator fixes
-    
 
 👉 Add **20–40% buffer** minimum
 
@@ -139,11 +129,8 @@ You adjust estimates based on:
 ### High Risk Factors:
 
 - Unstable UI
-    
 - Changing requirements
-    
 - New tech stack
-    
 - Third-party dependencies
     
 
@@ -174,20 +161,15 @@ Projected Sprints =
 You get a feature:
 
 - 20 simple tests → 20 SP
-    
 - 15 medium → 60 SP
-    
 - 5 complex → 50 SP
-    
 
 👉 Base = **130 SP**
 
 Add:
 
 - Framework gap = 20 SP
-    
 - Stability buffer (30%) = ~45 SP
-    
 
 👉 Total = **195 SP**
 
@@ -212,11 +194,8 @@ They say:
 👉 This shows:
 
 - Ownership
-    
 - Awareness
-    
 - Engineering maturity
-    
 
 ---
 
@@ -225,9 +204,7 @@ They say:
 ### ✅ Use “Confidence Levels”
 
 - High confidence → stable feature
-    
 - Low confidence → evolving feature
-    
 
 ---
 
@@ -236,11 +213,8 @@ They say:
 Not all tests should be automated:
 
 - High ROI
-    
 - Repeatable
-    
 - Stable
-    
 
 ---
 
@@ -249,9 +223,7 @@ Not all tests should be automated:
 If infra supports:
 
 - Reduce execution time
-    
 - NOT development time
-    
 
 ---
 
@@ -260,9 +232,7 @@ If infra supports:
 After sprint:
 
 - Compare estimated vs actual
-    
 - Improve calibration
-    
 
 ---
 
@@ -283,11 +253,8 @@ Not:
 I can:
 
 - Simulate a **real sprint planning session**
-    
 - Give you a **template (Excel/TestRail mapping + estimation model)**
-    
 - Show how **MAANG teams forecast quarterly automation**
-    
 
 Just tell me 👍
 

@@ -30,11 +30,8 @@ We’re going to strip EVERYTHING down.
 Pick ONLY these:
 
 1. **Storage SKU (Ambiguity ⭐)**
-    
 2. **E2E Flow (System thinking)**
-    
 3. **Playwright (Initiative)**
-    
 
 👉 Ignore everything else.
 
@@ -45,21 +42,13 @@ Pick ONLY these:
 Example (SKU):
 
 - Problem: No requirements, only 5 tickets
-    
 - Action:
-    
     - talked to stakeholders
-        
     - understood product
-        
     - created test cases
-        
 - Result:
-    
     - 55 bugs
-        
     - smooth release
-        
 
 👉 Just bullet points. Nothing fancy.
 
@@ -86,11 +75,8 @@ Use this simple structure:
 ### Important rules:
 
 - Speak **slowly**
-    
 - Pause is OK
-    
 - If stuck → restart sentence
-    
 
 ---
 
@@ -162,11 +148,8 @@ Rushing = dangerous
 ### Rule 4: Keep it simple
 
 You don’t need:
-
 - “designed strategy”
-    
 - “architected solution”
-    
 
 You can say:
 
@@ -181,9 +164,7 @@ You can say:
 You are NOT being judged on:
 
 - perfect English
-    
 - perfect words
-    
 
 You are judged on:  
 👉 **Can this person handle real problems?**

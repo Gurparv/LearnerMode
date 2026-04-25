@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "c2cf135b93d84d59",
+    "id": "ed725a4da43f1f38",
     "type": "split",
     "children": [
       {
-        "id": "4a6cbb1fc6b7e94a",
+        "id": "a9d4a0eb48e7896f",
         "type": "tabs",
         "children": [
           {
-            "id": "6f95e0cf0dd2082d",
+            "id": "54300ad32a56dfd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Builder/1. Automate Workflows in n8n Cloud.md",
+                "file": "Important_Skills/Agile/Estimation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Automate Workflows in n8n Cloud"
+              "title": "Estimation"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "80575a52c5eba077",
+    "id": "0db4f7d5dcc5b97b",
     "type": "split",
     "children": [
       {
-        "id": "ca0a1cbac4dca7fd",
+        "id": "fb72ae3e917bf8eb",
         "type": "tabs",
         "children": [
           {
-            "id": "2f1605cea4abbafe",
+            "id": "1ac96d74ee100f78",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "9de42a8de1b207a5",
+            "id": "4c7eaff70a98bbe2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "b398cf7be43557f7",
+            "id": "9036bf153ef7e24e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "bae81a4b9e631f80",
+    "id": "9df26e93189beae0",
     "type": "split",
     "children": [
       {
-        "id": "91192a62db0dd6dd",
+        "id": "aecb474aa1e4cea7",
         "type": "tabs",
         "children": [
           {
-            "id": "12bf548712fa2216",
+            "id": "1a702f310e554b17",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Important_Skills/Agile/Estimation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Estimation"
             }
           },
           {
-            "id": "f466ad99c79b71ae",
+            "id": "5eaddbcae2d6f911",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Important_Skills/Agile/Estimation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Estimation"
             }
           },
           {
-            "id": "c6d17357bc474028",
+            "id": "9391f8c1197f444a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +137,7 @@
             }
           },
           {
-            "id": "e121ec2ee2e46a58",
+            "id": "30b76a11983d5e7e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,17 +151,18 @@
             }
           },
           {
-            "id": "633b34f45a6df695",
+            "id": "67a53d7038944b24",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Important_Skills/Agile/Estimation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Estimation"
             }
           }
         ]
@@ -180,42 +183,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "2f1605cea4abbafe",
+  "active": "54300ad32a56dfd1",
   "lastOpenFiles": [
-    "AI Builder/Archive Images/Pasted image 20260423120209.png",
-    "AI Builder/Archive Images/Pasted image 20260422165930.png",
-    "AI Builder/1. Automate Workflows in n8n Cloud.md",
-    "LLMs Mastery",
-    "AI Builder/Archive Images/Pasted image 20260422195442.png",
-    "AI Builder/Archive Images/Pasted image 20260422193940.png",
-    "AI Builder/Archive Images/Pasted image 20260422193357.png",
-    "AI Builder/Archive Images/Pasted image 20260422193123.png",
-    "AI Builder/Archive Images/Pasted image 20260422193220.png",
-    "AI Builder/Archive Images/Pasted image 20260422193206.png",
-    "AI Builder/Archive Images/Pasted image 20260422192918.png",
-    "LangChain",
-    "LangChain Mastery",
-    "Guide to Custom GPTs and Actions",
-    "AI Builder/Archive Images/Pasted image 20260422191511.png",
-    "AI Builder/Archive Images",
-    "AI Vibe Coder/Week 1.md",
-    "Testing AI Apps (QA)/4. Basics of DeepEval.md",
-    "AI Engineer Agentic Track",
-    "AI Builder",
-    "AI Engineer Production Track",
-    "AI Engineer Core Track",
-    "Testing AI Apps (QA)/Archive_Images/Pasted image 20260414164637.png",
-    "Untitled.md",
-    "Testing AI Apps (QA)/3. Environment setup for LLM Evaluation.md",
-    "Testing AI Apps (QA)/2. Running LLM locally using Ollama.md",
-    "Testing AI Apps (QA)/1. Introduction.md",
-    "Testing AI Apps (QA)/Archive_Images",
-    "AI Usage in Testing/3. Manual Testing with the Power of Gen AI.md",
-    "AI Usage in Testing/5. Playwright UI Testing with Gen AI.md",
-    "AI Usage in Testing/4. Writing Automated UI Testing with GenAI.md",
-    "AI Usage in Testing/4. Man.md",
-    "AI Usage in Testing/2. Running LLM on your Local Machine.md",
-    "AI Usage in Testing/1. Introduction.md",
-    "Welcome.md"
+    "Important_Skills/Interview_Prep_Guide/Interview Questions.md",
+    "Important_Skills/Real Interview Questions/Xebia.md",
+    "Important_Skills/Real Interview Questions/Amazon.md",
+    "Important_Skills/Leadership.md",
+    "Important_Skills/Interview_Skills_4_Introduction.md",
+    "Important_Skills/Interview_Skills_3_When you dont know.md",
+    "Important_Skills/Interview_skills_2_B Wordings.md",
+    "Important_Skills/Interview_Skills_2.md",
+    "Important_Skills/Interview_Skills.md",
+    "Important_Skills/Behavioural Grid for my Projects.md",
+    "Important_Skills/Behaviour Grid for answering.md",
+    "Important_Skills/Archive_My Projects.md",
+    "Important_Skills/1 hr prep guide.md",
+    "Important_Skills/Agile/Estimation.md"
   ]
 }
