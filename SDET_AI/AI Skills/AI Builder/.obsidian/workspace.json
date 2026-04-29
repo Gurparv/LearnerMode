@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "04d0c2933cbc62b3",
+    "id": "9c2ab8c4fc9207ca",
     "type": "split",
     "children": [
       {
-        "id": "80ef2891e2aa4393",
+        "id": "b9ad3d9ccafecd32",
         "type": "tabs",
         "children": [
           {
-            "id": "d066ed2150d07deb",
+            "id": "0e63699a4ce9a1cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding Interview Questions - Help.md",
+                "file": "1. Automate Workflows in n8n Cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coding Interview Questions - Help"
+              "title": "1. Automate Workflows in n8n Cloud"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e2c3dd7413edd2c0",
+    "id": "af672cd6ea36dc58",
     "type": "split",
     "children": [
       {
-        "id": "d223cc8c0feea104",
+        "id": "75f57676a49f9ebb",
         "type": "tabs",
         "children": [
           {
-            "id": "addf3eb4e92ecab6",
+            "id": "e373fb2be70212f6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "541689f206b12608",
+            "id": "3de3b89f9adc97fc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "055171fbc39c001c",
+            "id": "8910e29d93c47711",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "f88ab89db83df6e2",
+    "id": "7de5d9d8563402b3",
     "type": "split",
     "children": [
       {
-        "id": "bd8dfdc2a786dc5a",
+        "id": "ebc4a2edbdc0dd14",
         "type": "tabs",
         "children": [
           {
-            "id": "5ee8963267a4aca4",
+            "id": "648af60af21fa96c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "1. Automate Workflows in n8n Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TODO"
+              "title": "Backlinks for 1. Automate Workflows in n8n Cloud"
             }
           },
           {
-            "id": "1c5900e8cc6e19c8",
+            "id": "5041f1a05103e23f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "1. Automate Workflows in n8n Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TODO"
+              "title": "Outgoing links from 1. Automate Workflows in n8n Cloud"
             }
           },
           {
-            "id": "01e928af477a0fd5",
+            "id": "10ae346a5b927b99",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "69b2c3bab820a6cf",
+            "id": "69613b3ef184f0ba",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "84159a39db2b5a4c",
+            "id": "c37910f8741e49d4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md",
+                "file": "1. Automate Workflows in n8n Cloud.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of 1. Automate Workflows in n8n Cloud"
             }
           }
         ]
@@ -183,8 +183,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "d066ed2150d07deb",
-  "lastOpenFiles": [
-    "Coding Interview Questions - Help.md"
-  ]
+  "active": "0e63699a4ce9a1cf",
+  "lastOpenFiles": []
 }

@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "04d0c2933cbc62b3",
+    "id": "e86b033c26b86312",
     "type": "split",
     "children": [
       {
-        "id": "80ef2891e2aa4393",
+        "id": "371ffba5e4965f0b",
         "type": "tabs",
         "children": [
           {
-            "id": "d066ed2150d07deb",
+            "id": "f8cded36e93da87f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding Interview Questions - Help.md",
+                "file": "AI Skills/AI Builder/1. Automate Workflows in n8n Cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coding Interview Questions - Help"
+              "title": "1. Automate Workflows in n8n Cloud"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e2c3dd7413edd2c0",
+    "id": "d52fc98a2628f889",
     "type": "split",
     "children": [
       {
-        "id": "d223cc8c0feea104",
+        "id": "0079a2aa5ccb5380",
         "type": "tabs",
         "children": [
           {
-            "id": "addf3eb4e92ecab6",
+            "id": "29d8c11829962d86",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "541689f206b12608",
+            "id": "baca86a1db3a0a40",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "055171fbc39c001c",
+            "id": "769c369801e197be",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "f88ab89db83df6e2",
+    "id": "eed5f373c473c57e",
     "type": "split",
     "children": [
       {
-        "id": "bd8dfdc2a786dc5a",
+        "id": "5a5ecd79a293f2c9",
         "type": "tabs",
         "children": [
           {
-            "id": "5ee8963267a4aca4",
+            "id": "a67e8e57e97db6d2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "AI Skills/AI Builder/1. Automate Workflows in n8n Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TODO"
+              "title": "Backlinks for 1. Automate Workflows in n8n Cloud"
             }
           },
           {
-            "id": "1c5900e8cc6e19c8",
+            "id": "69a3d7ae484336ce",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "AI Skills/AI Builder/1. Automate Workflows in n8n Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TODO"
+              "title": "Outgoing links from 1. Automate Workflows in n8n Cloud"
             }
           },
           {
-            "id": "01e928af477a0fd5",
+            "id": "52843decfe998f31",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "69b2c3bab820a6cf",
+            "id": "df00f6d51e2e7a66",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "84159a39db2b5a4c",
+            "id": "37293d9c252adf27",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md",
+                "file": "AI Skills/AI Builder/1. Automate Workflows in n8n Cloud.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of 1. Automate Workflows in n8n Cloud"
             }
           }
         ]
@@ -183,8 +183,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "d066ed2150d07deb",
-  "lastOpenFiles": [
-    "Coding Interview Questions - Help.md"
-  ]
+  "active": "f8cded36e93da87f",
+  "lastOpenFiles": []
 }
