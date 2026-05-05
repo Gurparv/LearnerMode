@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "72f1c84954c941a4",
+    "id": "a18cb7beffc2fc84",
     "type": "split",
     "children": [
       {
-        "id": "5fce4f45906d131c",
+        "id": "9aca76282d819e5e",
         "type": "tabs",
         "children": [
           {
-            "id": "968aa27dfee8b077",
+            "id": "f8ccdc89dffbcb1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playwright_JS/2.A Playwright JS Features/TODOGetting Started - VS Code.md",
+                "file": "SDET_JS/Typescript/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODOGetting Started - VS Code"
+              "title": "Introduction"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "326be41eba3d53ae",
+    "id": "40942e35af45bde3",
     "type": "split",
     "children": [
       {
-        "id": "875583ec80783333",
+        "id": "55ba62bf439a0b5e",
         "type": "tabs",
         "children": [
           {
-            "id": "9a8fb0a8cf6b3249",
+            "id": "536687b843c3b0ea",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "e66690a116954565",
+            "id": "197687983c83f8ca",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "9d71eab3f6fb7700",
+            "id": "b0952130186a033b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "55c59817fd320738",
+    "id": "279898ae020834bf",
     "type": "split",
     "children": [
       {
-        "id": "43f0f322e75ed54c",
+        "id": "a31d24bbd6cd2d80",
         "type": "tabs",
         "children": [
           {
-            "id": "4b0fecadd8920b6f",
+            "id": "7ef54bec3cbe3637",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playwright_JS/1. First Steps/TODO_Playwright Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TODO_Playwright Test"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "2bf50a82bb502092",
+            "id": "c382962ec47db12e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playwright_JS/1. First Steps/TODO_Playwright Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TODO_Playwright Test"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "dbc4e30ff176f9d3",
+            "id": "6f4a15f0929e1b3e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +135,7 @@
             }
           },
           {
-            "id": "0f83f69e390c0c68",
+            "id": "6d53ecb831040829",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +149,17 @@
             }
           },
           {
-            "id": "13aa3f2078333e55",
+            "id": "3f3af960afdc2e88",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playwright_JS/1. First Steps/TODO_Playwright Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO_Playwright Test"
+              "title": "Outline"
             }
           }
         ]
@@ -183,35 +180,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "968aa27dfee8b077",
+  "active": "f8ccdc89dffbcb1d",
   "lastOpenFiles": [
-    "Playwright_JS/TODO_Smart Test Orchestration/Test orchestration.md",
-    "Playwright_JS/TODO_Playwright Utilities/Utilities Idea.md",
-    "Playwright_JS/TODO_Parallel Execution/1. How to know browser load testcase is taking..md",
-    "Playwright_JS/TEST-YOURSELF/Playwright Detail Syllabus.md",
-    "Playwright_JS/Scenarios/12. Other things i dont understand that much.md",
-    "Playwright_JS/Scenarios/Untitled.md",
-    "Playwright_JS/Scenarios/11. DONE_SSO login.md",
-    "Playwright_JS/Scenarios/9. Integration with Docker.md",
-    "Playwright_JS/Scenarios/10. Integration with CI.md",
-    "Playwright_JS/Scenarios/8. DONE_Isolation of Test Data.md",
-    "Playwright_JS/Scenarios/7. Isolation in tests.md",
-    "Playwright_JS/Scenarios/6. Debugging Skills.md",
-    "Playwright_JS/Scenarios/5. Sharding.md",
-    "Playwright_JS/Scenarios/4. Environment variables.md",
-    "Playwright_JS/Scenarios/3. Assertions (Hard and Soft).md",
-    "Playwright_JS/Scenarios/2. Locators.md",
-    "Playwright_JS/Scenarios/1. Script Writing like an Expert.md",
-    "Playwright_JS/Playwright_TestRunner/TestReporter.md",
-    "Playwright_JS/Playwright_TestRunner/TestInfo Error.md",
-    "Playwright_JS/Playwright_TestRunner/TestInfo.md",
-    "Playwright_JS/DONE_Why automation test script fails/Note 1.md",
-    "Playwright_JS/Playwright_JS_ME_INPROGRESS/Playwright Test",
-    "Playwright_JS/Playwright_JS_ME_INPROGRESS",
-    "Playwright_JS/DONE_Try Catch N Exceptions/TryCatch and Exceptions.md",
-    "Playwright_JS/DONE_How to Write Test scripts/Test Scripts Writing 2.md",
-    "Playwright_JS/DONE_How to Write Test scripts/TestScripts 1.md",
-    "Playwright_JS/DONE_Flakiness Handling/Flakiness guide.md",
-    "Playwright_JS/Archive Notes/Day4_PlayWrightInspectorNTraceViewer.md"
+    "SDET_JS/Typescript/Archive Images",
+    "SDET_JS/Untitled",
+    "SDET_JS/Typescript/Archive Images/Pasted image 20260504205105.png",
+    "SDET_JS/Typescript/Introduction.md",
+    "SDET_JS/Typescript",
+    "Untitled"
   ]
 }

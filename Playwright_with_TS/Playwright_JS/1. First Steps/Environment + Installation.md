@@ -4,13 +4,13 @@ Playwright Test is an end-to-end test framework for modern web apps. It bundles 
 
 Q. Whats the difference between Typescript and Javascript?
 
-|JavaScript|TypeScript|
-|---|---|
-|Plain scripting language that runs directly in browsers/Node.js|Superset of JavaScript with **static typing**|
-|No type checking|**Types catch errors before running code**|
-|Files: `.js`|Files: `.ts`|
-|Runs directly|Must be **compiled to JavaScript** first|
-|Easier to start|Better **tooling, autocomplete, maintainability**|
+| JavaScript                                                      | TypeScript                                        |
+| --------------------------------------------------------------- | ------------------------------------------------- |
+| Plain scripting language that runs directly in browsers/Node.js | Superset of JavaScript with **static typing**     |
+| No type checking                                                | **Types catch errors before running code**        |
+| Files: `.js`                                                    | Files: `.ts`                                      |
+| Runs directly                                                   | Must be **compiled to JavaScript** first          |
+| Easier to start                                                 | Better **tooling, autocomplete, maintainability** |
 ### Simple Example
 **JavaScript**
 ```javascript
@@ -43,7 +43,7 @@ If you're learning **Playwright seriously → use TypeScript**. Most modern test
 
 ---
 
-### ## Installating Playwright
+### ## Installing Playwright
 ```Bash
 npm init playwright@latest 
 ```

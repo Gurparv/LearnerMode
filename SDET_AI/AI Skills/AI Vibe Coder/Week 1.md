@@ -85,3 +85,15 @@ An LLM has a limit to how many tokens it can examine in its input; input longer 
 `Compacting` is the feature built into these tools like Claude Code.
 ![[Pasted image 20260428163222.png]]
 
+### AGENTS.md
+A file in Markdown format with natural language instructions for the Agent that get included in the context.
+
+Can be in project root, or at any level of subdirectory.
+
+Cursor, Codex, Github Copilot use AGENTS.md
+Claude Code uses CLAUDE.md
+Antigravity uses GEMINI.md
+
+### Evolution of Workflows.
+
+
