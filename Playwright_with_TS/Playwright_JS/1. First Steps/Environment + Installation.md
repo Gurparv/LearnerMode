@@ -11,7 +11,8 @@ Q. Whats the difference between Typescript and Javascript?
 | Files: `.js`                                                    | Files: `.ts`                                      |
 | Runs directly                                                   | Must be **compiled to JavaScript** first          |
 | Easier to start                                                 | Better **tooling, autocomplete, maintainability** |
-### Simple Example
+### Simple Examples
+
 **JavaScript**
 ```javascript
 function add(a, b) {

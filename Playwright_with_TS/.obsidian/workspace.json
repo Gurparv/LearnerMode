@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playwright_JS/2.A Playwright JS Features/TODOGetting Started - VS Code.md",
+                "file": "Playwright_JS/1. First Steps/Some common scripts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODOGetting Started - VS Code"
+              "title": "Some common scripts"
             }
           }
         ]
@@ -185,6 +185,16 @@
   },
   "active": "968aa27dfee8b077",
   "lastOpenFiles": [
+    "Playwright_JS/1. First Steps/Javascript basics to know.md",
+    "Playwright_JS/1. First Steps/Selenium vs Playwright Architecture.md",
+    "Playwright_JS/1. First Steps/Promise and Promise.all( ).md",
+    "Playwright_JS/1. First Steps/Javascript basics to know 2.md",
+    "Playwright_JS/1. First Steps/Playwright Library.md",
+    "Playwright_JS/1. First Steps/Environment + Installation.md",
+    "Playwright_JS/4. Industry_Grade_Elite_Level_Framework/Elite Framework.md",
+    "Playwright_JS/3. Basic Automation Framework/2. Page Object Model.md",
+    "Playwright_JS/3. Basic Automation Framework/1. Basics.md",
+    "Playwright_JS/2.A Playwright JS Features/TODOGetting Started - VS Code.md",
     "Playwright_JS/TODO_Smart Test Orchestration/Test orchestration.md",
     "Playwright_JS/TODO_Playwright Utilities/Utilities Idea.md",
     "Playwright_JS/TODO_Parallel Execution/1. How to know browser load testcase is taking..md",
@@ -201,17 +211,7 @@
     "Playwright_JS/Scenarios/4. Environment variables.md",
     "Playwright_JS/Scenarios/3. Assertions (Hard and Soft).md",
     "Playwright_JS/Scenarios/2. Locators.md",
-    "Playwright_JS/Scenarios/1. Script Writing like an Expert.md",
-    "Playwright_JS/Playwright_TestRunner/TestReporter.md",
-    "Playwright_JS/Playwright_TestRunner/TestInfo Error.md",
-    "Playwright_JS/Playwright_TestRunner/TestInfo.md",
-    "Playwright_JS/DONE_Why automation test script fails/Note 1.md",
     "Playwright_JS/Playwright_JS_ME_INPROGRESS/Playwright Test",
-    "Playwright_JS/Playwright_JS_ME_INPROGRESS",
-    "Playwright_JS/DONE_Try Catch N Exceptions/TryCatch and Exceptions.md",
-    "Playwright_JS/DONE_How to Write Test scripts/Test Scripts Writing 2.md",
-    "Playwright_JS/DONE_How to Write Test scripts/TestScripts 1.md",
-    "Playwright_JS/DONE_Flakiness Handling/Flakiness guide.md",
-    "Playwright_JS/Archive Notes/Day4_PlayWrightInspectorNTraceViewer.md"
+    "Playwright_JS/Playwright_JS_ME_INPROGRESS"
   ]
 }

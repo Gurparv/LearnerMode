@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selenium Vault/TEST-YOURSELF/Selenium Syllabus.md",
+                "file": "Selenium Vault/2. Selenium Features/Selenium Grid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Selenium Syllabus"
+              "title": "Selenium Grid"
             }
           }
         ]
@@ -183,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "1d84f430f549fde1",
+  "active": "49b98283e1727f93",
   "lastOpenFiles": [
+    "Selenium Vault/TEST-YOURSELF/Selenium Syllabus.md",
     "Selenium Vault/4. Industry_Grade_Elite_Level_Framework/Framework Skeleton.md",
     "Selenium Vault/4. Industry_Grade_Elite_Level_Framework/Features of an Automation Framework.md",
     "Selenium Vault/3. Basic Automation Framework/WebDriver Safe Parallel Testing.md",

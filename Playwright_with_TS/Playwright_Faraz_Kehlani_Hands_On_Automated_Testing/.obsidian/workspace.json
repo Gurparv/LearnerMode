@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "ed725a4da43f1f38",
+    "id": "78b3a5f04b373f3a",
     "type": "split",
     "children": [
       {
-        "id": "a9d4a0eb48e7896f",
+        "id": "01b6bdf22b3a4557",
         "type": "tabs",
         "children": [
           {
-            "id": "54300ad32a56dfd1",
+            "id": "bea36aedd43e0b73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important_Skills/Behaviour Grid for answering.md",
+                "file": "ButchMayhew_Course1/4. Maintaining Playwright Tests.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Behaviour Grid for answering"
+              "title": "4. Maintaining Playwright Tests"
             }
           }
         ]
@@ -27,20 +27,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0db4f7d5dcc5b97b",
+    "id": "793f1c2061556ee7",
     "type": "split",
     "children": [
       {
-        "id": "fb72ae3e917bf8eb",
+        "id": "0344ce081272a666",
         "type": "tabs",
         "children": [
           {
-            "id": "1ac96d74ee100f78",
+            "id": "24b926d5d1702a72",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "4c7eaff70a98bbe2",
+            "id": "e729872c29aedd89",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "9036bf153ef7e24e",
+            "id": "501e94b6c5595ed5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "9df26e93189beae0",
+    "id": "b1ec1ba0208c8253",
     "type": "split",
     "children": [
       {
-        "id": "aecb474aa1e4cea7",
+        "id": "6bc07b3b39d9a5ac",
         "type": "tabs",
         "children": [
           {
-            "id": "1a702f310e554b17",
+            "id": "06f90969c63f26d9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important_Skills/Agile/Estimation.md",
+                "file": "ButchMayhew_Course1/2. Playwright Installation and Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Estimation"
+              "title": "Backlinks for 2. Playwright Installation and Configuration"
             }
           },
           {
-            "id": "5eaddbcae2d6f911",
+            "id": "0215e4e3b5a9165b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Important_Skills/Agile/Estimation.md",
+                "file": "ButchMayhew_Course1/2. Playwright Installation and Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Estimation"
+              "title": "Outgoing links from 2. Playwright Installation and Configuration"
             }
           },
           {
-            "id": "9391f8c1197f444a",
+            "id": "6f0376a0166b0610",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "30b76a11983d5e7e",
+            "id": "b3832f85a19c7f58",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "67a53d7038944b24",
+            "id": "4688474d73fa9b4e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Important_Skills/Agile/Estimation.md",
+                "file": "ButchMayhew_Course1/2. Playwright Installation and Configuration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Estimation"
+              "title": "Outline of 2. Playwright Installation and Configuration"
             }
           }
         ]
@@ -183,21 +183,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "54300ad32a56dfd1",
+  "active": "bea36aedd43e0b73",
   "lastOpenFiles": [
-    "Important_Skills/Archive_My Projects.md",
-    "Important_Skills/Leadership.md",
-    "Important_Skills/Interview_Prep_Guide/Interview Questions.md",
-    "Important_Skills/Agile/Estimation.md",
-    "Important_Skills/Real Interview Questions/Xebia.md",
-    "Important_Skills/Real Interview Questions/Amazon.md",
-    "Important_Skills/Interview_skills_2_B Wordings.md",
-    "Important_Skills/1 hr prep guide.md",
-    "Important_Skills/Interview_Skills_2.md",
-    "Important_Skills/Interview_Skills.md",
-    "Important_Skills/Behavioural Grid for my Projects.md",
-    "Important_Skills/Behaviour Grid for answering.md",
-    "Important_Skills/Interview_Skills_4_Introduction.md",
-    "Important_Skills/Interview_Skills_3_When you dont know.md"
+    "ButchMayhew_Course1/5. Conclusion.md",
+    "ButchMayhew_Course1/2. Playwright Installation and Configuration.md",
+    "ButchMayhew_Course1/4. Maintaining Playwright Tests.md",
+    "ButchMayhew_Course1/3. Creating Tests with Playwrighta.md",
+    "Archive Screenshots",
+    "Archive Screenshots/Pasted image 20260705015312.png",
+    "ButchMayhew_Course1/1. Introduction.md",
+    "Introduction.md",
+    "ButhMayhew_Course2",
+    "ButchMayhew_Course1"
   ]
 }
