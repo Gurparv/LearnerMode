@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Basic Automation Framework/1. Basics.md",
+                "file": "4. Industry_Grade_Elite_Level_Framework/Elite Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Basics"
+              "title": "Elite Framework"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "aa0c789f487726be",
   "lastOpenFiles": [
+    "3. Basic Automation Framework/1. Basics.md",
     "2.B Playwright Test/Annotations and Tagging (Grouping of Tests).md",
     "2.A Playwright JS Features/HTML Test Reports.md",
     "2.A Playwright JS Features/PENDING_Setting up CI.md",
@@ -192,7 +193,6 @@
     "2.A Playwright JS Features/Running Tests in UI Mode.md",
     "2.A Playwright JS Features/TODOGetting Started - VS Code.md",
     "2.A Playwright JS Features/TODO_Writing tests.md",
-    "3. Basic Automation Framework/1. Basics.md",
     "TODO_Playwright Utilities/Utilities Idea.md",
     "1. First Steps/Javascript basics to know 2.md",
     "TODO_Playwright Utilities",

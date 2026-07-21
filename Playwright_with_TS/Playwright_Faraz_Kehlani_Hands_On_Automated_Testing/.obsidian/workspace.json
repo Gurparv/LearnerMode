@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ButhMayhew_Course2/4. Mocking and Emulation in Playwright.md",
+                "file": "ButhMayhew_Course2/7. Conclusion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Mocking and Emulation in Playwright"
+              "title": "7. Conclusion"
             }
           }
         ]
@@ -183,18 +183,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "bea36aedd43e0b73",
+  "active": "24b926d5d1702a72",
   "lastOpenFiles": [
-    "ButhMayhew_Course2/1. Introduction.md",
-    "ButhMayhew_Course2/2. Abstractions in Playwright.md",
+    "Archive Screenshots/Pasted image 20260721233425.png",
+    "ButhMayhew_Course2/6. Handling Complex scenarios and Interactions in Playwright.md",
+    "ButhMayhew_Course2/3. Fixtures in Playwright.md",
+    "Archive Screenshots/Pasted image 20260721224213.png",
+    "Archive Screenshots/Pasted image 20260721210657.png",
+    "ButhMayhew_Course2/5. Customizing the Playwright config.md",
+    "ButhMayhew_Course2/4. Mocking and Emulation in Playwright.md",
     "DONE_ButchMayhew_Course1/3. Creating Tests with Playwrighta.md",
     "DONE_ButchMayhew_Course1/2. Playwright Installation and Configuration.md",
     "DONE_ButchMayhew_Course1/1. Introduction.md",
+    "ButhMayhew_Course2/1. Introduction.md",
+    "ButhMayhew_Course2/2. Abstractions in Playwright.md",
     "ButhMayhew_Course2/7. Conclusion.md",
-    "ButhMayhew_Course2/6. Handling Complex scenarios and Interactions in Playwright.md",
-    "ButhMayhew_Course2/5. Customizing the Playwright config.md",
-    "ButhMayhew_Course2/4. Mocking and Emulation in Playwright.md",
-    "ButhMayhew_Course2/3. Fixtures in Playwright.md",
     "DONE_ButchMayhew_Course1/5. Conclusion.md",
     "Archive Screenshots/Pasted image 20260705023102.png",
     "Archive Screenshots/Pasted image 20260705023536.png",
