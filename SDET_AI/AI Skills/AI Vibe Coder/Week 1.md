@@ -13,7 +13,7 @@
 - Take maximum advantage of Agentic Coding - respond to Karpathy
 - Apply to roles that require Agentic Coding Skills
 
-### Most of Ed Donner courser are about using code to make AI Agents But this course is about using AI agents to make Code.
+### Most of Ed Donner courses are about using code to make AI Agents But this course is about using AI agents to make Code.
 
 
 ---
@@ -96,4 +96,8 @@ Antigravity uses GEMINI.md
 
 ### Evolution of Workflows.
 
+Website to compare results -> https://artificialanalysis.ai/
 
+//Sometimes the Agent says it fixed something but didnt .. use it then ->
+Please first reproduce the problem prove that you have reproduced it , find the root
+ cause  fix it and  prove you fixed it
