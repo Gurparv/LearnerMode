@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "e86b033c26b86312",
+    "id": "b8629dfef17620e4",
     "type": "split",
     "children": [
       {
-        "id": "371ffba5e4965f0b",
+        "id": "c905685a5836ab41",
         "type": "tabs",
         "children": [
           {
-            "id": "f8cded36e93da87f",
+            "id": "22b43544728089ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Skills/AI Vibe Coder/Archive Images/Week 3.md",
+                "file": "Writing Clean Code/6. Objects, Classes & Data Containers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 3"
+              "title": "6. Objects, Classes & Data Containers"
             }
           }
         ]
@@ -27,30 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d52fc98a2628f889",
+    "id": "1ec7e78e88e36c4a",
     "type": "split",
     "children": [
       {
-        "id": "0079a2aa5ccb5380",
+        "id": "5d35faac928cc664",
         "type": "tabs",
         "children": [
           {
-            "id": "29d8c11829962d86",
+            "id": "843e3d6856b9cbed",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "baca86a1db3a0a40",
+            "id": "3099845a7d088c45",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +65,7 @@
             }
           },
           {
-            "id": "769c369801e197be",
+            "id": "29af4c3f2aa54e7b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "eed5f373c473c57e",
+    "id": "1959ed4980eb2cfe",
     "type": "split",
     "children": [
       {
-        "id": "5a5ecd79a293f2c9",
+        "id": "8ebd5a0cacf1efe2",
         "type": "tabs",
         "children": [
           {
-            "id": "a67e8e57e97db6d2",
+            "id": "453bc8994201f711",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Skills/AI Builder/1. Automate Workflows in n8n Cloud.md",
+                "file": "Design Patterns/2. Design Principles and Strategies of Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Automate Workflows in n8n Cloud"
+              "title": "Backlinks for 2. Design Principles and Strategies of Design"
             }
           },
           {
-            "id": "69a3d7ae484336ce",
+            "id": "c84e8e41e018706b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Skills/AI Builder/1. Automate Workflows in n8n Cloud.md",
+                "file": "Design Patterns/2. Design Principles and Strategies of Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Automate Workflows in n8n Cloud"
+              "title": "Outgoing links from 2. Design Principles and Strategies of Design"
             }
           },
           {
-            "id": "52843decfe998f31",
+            "id": "49dd3dc650e9c22d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,7 +137,7 @@
             }
           },
           {
-            "id": "df00f6d51e2e7a66",
+            "id": "28596c419e46a845",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -153,18 +151,18 @@
             }
           },
           {
-            "id": "37293d9c252adf27",
+            "id": "9818686101506edd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Skills/AI Builder/1. Automate Workflows in n8n Cloud.md",
+                "file": "Design Patterns/2. Design Principles and Strategies of Design.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Automate Workflows in n8n Cloud"
+              "title": "Outline of 2. Design Principles and Strategies of Design"
             }
           }
         ]
@@ -185,11 +183,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "f8cded36e93da87f",
+  "active": "22b43544728089ec",
   "lastOpenFiles": [
-    "AI Skills/AI Vibe Coder/Week 2.md",
-    "AI Skills/AI Vibe Coder/Archive Images/Week 3.md",
-    "AI Skills/AI Vibe Coder/Week 1.md",
-    "AI Skills/AI Builder/1. Automate Workflows in n8n Cloud.md"
+    "TODO_Practical Test Driven Development/2. First Tests.md",
+    "TODO_Practical Test Driven Development/1. Introduction.md",
+    "Writing Clean Code/6. Objects, Classes & Data Containers.md",
+    "Writing Clean Code/5. Control Structures & Errors.md",
+    "Writing Clean Code/4. Functions and Methods.md",
+    "TODO_Practical Test Driven Development",
+    "Writing Clean Code/1. Getting Started.md",
+    "Writing Clean Code/3. Code Structure, Comments & Formatting..md",
+    "Writing Clean Code/2. Naming Things.md",
+    "Design Patterns/2. Design Principles and Strategies of Design.md",
+    "Design Patterns/Archive_Images/Untitled 1.md",
+    "Design Patterns/1. Intro to Design Patterns.md",
+    "Design Patterns/Archive_Images/Untitled.md",
+    "Writing Clean Code",
+    "Design Patterns/Archive_Images",
+    "Untitled 1",
+    "Design Patterns/Archive_Images/Pasted image 20260326194712.png",
+    "SDET_DSA_and_Algo/Java Data Structures (Java).md",
+    "SDET_DSA_and_Algo/Java Data Structures (Java)",
+    "Design Patterns"
   ]
 }
