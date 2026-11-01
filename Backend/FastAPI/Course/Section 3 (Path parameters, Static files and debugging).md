@@ -35,8 +35,8 @@ def get_rooms():
 
 ## Path parameters
 
-Use-case:
-Dynamic part of route eg `/rooms/12` now we cannot create 12 endpoints like we did above coz its not scalable. 
+Path paramters are Dynamic, named segments of the `URL/path` part of route eg `/rooms/12` now we cannot create 12 endpoints like we did above coz its not scalable. 
+We wrap the path parameter in curly braces in the route string eg `/coffees.{coffee_id}`
 
 ```Python title="demo.py"
 from fastapi import FastAPI
@@ -198,4 +198,9 @@ def root():
 ```
 
 
+
 ![[Pasted image 20261101150302.png]]
+
+---
+
+## Section Review for revision.
