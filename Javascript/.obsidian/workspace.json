@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "9x. Closer look at Functions"
             }
+          },
+          {
+            "id": "64fe309e926afcd5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,7 +209,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "dd9078e0b651826c",
+  "active": "64fe309e926afcd5",
   "lastOpenFiles": [
     "SDET_JS/Archive Images/Pasted image 20260927155541.png",
     "SDET_JS/Archive Images/Pasted image 20260927155429.png",
