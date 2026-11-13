@@ -158,7 +158,7 @@ export abstract class BasePage {
 		await this.page.goto(`${APP_BASE}${path}${qs}`);
 	}
 	
-	async setupRoutes(mockApi: MockApi, overrides?: {UserProfile ?: UserProfileMock}) {
+	async setupRoutes(mockApi: MockApi, overrides?: {UserProfile ?: unknown}) {
 		if (overrides?.userProfile)	{
 			await this.page.unroute(API_ROUTES.userProfile);
 			await mockApi.intercept(API_ROUTES.userProfile, overrides.userProfile);
